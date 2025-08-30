@@ -2,6 +2,9 @@
 
 This project applies deep learning and Convolutional Neural Networks (CNNs) to identify and classify plant diseases from leaf images. The aim is to provide farmers and agricultural specialists with a reliable tool for quick diagnosis, helping reduce crop losses through timely action.
 
+[**Demo**](https://plant-disease-detection-live.streamlit.app/)
+
+
 ---
 
 ## Project Layout 📂
