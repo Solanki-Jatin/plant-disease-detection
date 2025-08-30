@@ -25,8 +25,7 @@ To run the application locally:
 1. **Download the project**
 
 ```bash
-git clone <repository-link>
-```
+git clone https://github.com/Solanki-Jatin/plant-disease-detection.git```
 
 2. **Navigate to the directory**
 
